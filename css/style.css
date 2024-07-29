@@ -41,15 +41,7 @@
     font-size: 18px;
     font-weight: 500;
 }
-.menu li a:hover{
-    color:#8cff95;}
-.menu li a:hover:after {
-  z-index: -10;
-  animation: fill 1s forwards;
-  -webkit-animation: fill 1s forwards;
-  -moz-animation: fill 1s forwards;
-  opacity: 1;
-}
+
 .hamburger{
     display: none;
 }
