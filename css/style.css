@@ -42,7 +42,7 @@
     font-weight: 500;
 }
 .menu li a:hover{
-    color:#8cff95;
+    color:#8cff95;}
 .menu li a:hover:after {
   z-index: -10;
   animation: fill 1s forwards;
